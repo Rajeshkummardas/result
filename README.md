@@ -13,3 +13,4 @@ you can check any one of them simutaneously.
 these all are unique student identity number.
 After clicking on search option you can see student marksheet.
 Also you can print it in A4 paper.
+ 
